@@ -1,9 +1,5 @@
-# React Starter Pack
+# React Color Guess
 
-To use this template click `Use this template`
+Simple game where you need to guess a generated color.
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+[LINK](https://andrii-dmytruk.github.io/color-guess/)
